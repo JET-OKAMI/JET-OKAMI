@@ -23,6 +23,7 @@
 
 
 
+
 #### 
 Sou um profissional de TI apaixonado por tecnologia e inovação. 
 
