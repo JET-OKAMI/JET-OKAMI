@@ -2,7 +2,8 @@
 
 ###
 
-<img align="left" height="173" src="https://i.imgflip.com/65efzo.gif"  />
+![8Wm3](https://github.com/user-attachments/assets/dedd3501-6c58-4ea2-b106-8d7c8eb4d041)
+
 
 ###
 
