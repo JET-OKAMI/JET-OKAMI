@@ -29,3 +29,4 @@ Sou um profissional de TI apaixonado por tecnologia e inovação.
 
  Gosto de aprender novas ferramentas e metodologias, e de compartilhar meus conhecimentos com outras pessoas.
 
+
