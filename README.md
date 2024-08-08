@@ -46,12 +46,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JET-OKAMI/JET-OKAMI/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
+
 </div>
 
 ###
